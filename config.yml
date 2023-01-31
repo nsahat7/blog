@@ -63,7 +63,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "ifootball103i"
-    Content: A blog about football talk
+    Content: This is my blog. Mostly football talk.
 
   socialIcons:
     - name: twitter
